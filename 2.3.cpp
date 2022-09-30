@@ -12,7 +12,7 @@ void person :: getdata(void)
 {
 	cout<<"enter name:";
 	cin>>name;
-	cout<<"enter name:";
+	cout<<"enter age:";
 	cin>>age;
 }
 void person :: display(void)
@@ -28,3 +28,10 @@ int main()
 	
 	return 0;
 }
+/*
+OUTPUT:
+enter name:NANDITA
+enter age:19
+
+name: NANDITA
+age: 19*/
