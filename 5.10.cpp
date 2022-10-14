@@ -51,5 +51,3 @@ values before exchange
 values after exchange
 200
 100 */
-Footer
-© 2022 GitHub, Inc.
